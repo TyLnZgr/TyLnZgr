@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @TyLnZgr I'm Jr. Front End Developer
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="288" height="288">
 
 # Tech I use
-![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png =300x300)
+![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png)
 
 
 <!---
