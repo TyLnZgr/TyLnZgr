@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TyLnZgr I'm Jr. Front End Developer
+- 👋 Hi, I’m @TyLnZgr I'm  Front End Developer
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+
 
 
 # Tech I use
