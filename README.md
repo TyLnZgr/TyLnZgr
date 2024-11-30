@@ -16,6 +16,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="35" height="35">
 </div>
 
+#Connect with me:[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013-2019.svg)](https://www.linkedin.com/in/tylnzgr)
+
 <!---
 TyLnZgr/TyLnZgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
