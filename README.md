@@ -11,8 +11,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="35" height="35">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="35" height="35">
 <img src="https://github.com/remojansen/logo.ts/blob/master/ts.png" width="35" height="35">
-<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.svg" width="35" height="35">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="35" height="35">
+<img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" width="35" height="35">
 </div>
 
 <!---
