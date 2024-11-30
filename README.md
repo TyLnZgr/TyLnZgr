@@ -18,7 +18,7 @@
 
 #Connect with me 
 <div>
-[![LinkedIn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SwyP9TG6z5bI-kQ3Q0aJRQLlkcflIufK4A&s)](https://www.linkedin.com/in/tylnzgr)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.png)](https://www.linkedin.com/in/tylnzgr)
 </div>
 
 <!---
