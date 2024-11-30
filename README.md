@@ -13,6 +13,7 @@
 <img src="https://github.com/remojansen/logo.ts/blob/master/ts.png" width="35" height="35">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="35" height="35">
 <img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" width="35" height="35">
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="35" height="35">
 </div>
 
 <!---
