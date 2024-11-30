@@ -19,7 +19,7 @@
 #Connect with me 
 <p>
   <a href="https://www.linkedin.com/in/tylnzgr">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.png" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="LinkedIn" />
   </a>
 </p>
 
