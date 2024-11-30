@@ -12,6 +12,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="35" height="35">
 <img src="https://github.com/remojansen/logo.ts/blob/master/ts.png" width="35" height="35">
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.svg" width="35" height="35">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="35" height="35">
 </div>
 
 <!---
