@@ -17,7 +17,11 @@
 </div>
 
 #Connect with me 
-[!(https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.png)](https://www.linkedin.com/in/tylnzgr)
+<p>
+  <a href="https://www.linkedin.com/in/tylnzgr">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.png" alt="LinkedIn" />
+  </a>
+</p>
 
 <!---
 TyLnZgr/TyLnZgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
