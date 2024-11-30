@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @TyLnZgr I'm  Front End Developer
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m @TyLnZgr I'm  Front End Engineer
+- 📫 How to reach me taylan.taskirdi@hotmail.com
+- 📄 Know about my experiences https://www.linkedin.com/in/tylnzgr/
 
 
 
@@ -14,6 +15,7 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="35" height="35">
 <img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" width="35" height="35">
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="35" height="35">
+<img src="https://git-scm.com/images/logo@2x.png" width="35" height="35">
 </div>
 
 # Connect with me 
