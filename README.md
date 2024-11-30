@@ -12,7 +12,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="35" height="35">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="35" height="35">
 <img src="https://github.com/remojansen/logo.ts/blob/master/ts.png" width="35" height="35">
-<img src="https://redux.js.org/" width="35" height="35">
+<img src="[https://redux.js.org/](https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png)" width="35" height="35">
 </div>
 
 <!---
