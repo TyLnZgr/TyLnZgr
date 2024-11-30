@@ -16,10 +16,10 @@
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="35" height="35">
 </div>
 
-#Connect with me 
+# Connect with me 
 <p>
   <a href="https://www.linkedin.com/in/tylnzgr">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="LinkedIn" width="35" height="35" />
   </a>
 </p>
 
